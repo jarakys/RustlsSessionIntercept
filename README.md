@@ -1,4 +1,4 @@
-# rustls-mitm-cert-sniffer
+# RustlsSessionIntercept
 
 A small Rust utility that connects to a remote TLS server and extracts its certificate in DER format using [rustls](https://github.com/rustls/rustls).
 
